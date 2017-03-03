@@ -1,1 +1,1 @@
-#Pokedex GraphQL api
+#Pokedex GraphQL api files
